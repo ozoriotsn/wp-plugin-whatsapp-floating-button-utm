@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-28 11:27+0000\n"
+"PO-Revision-Date: 2025-04-29 08:44-0300\n"
+"Last-Translator: \n"
+"Language-Team: BR\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Loco-Source-Locale: en_US\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: whatsapp-floating-button\n"
+
+msgid "WhatsApp Floating Button UTM"
+msgstr "WhatsApp Floating Button UTM"
+
+msgid "WhatsApp Floating Button UTM - Settings"
+msgstr "WhatsApp Floating Button UTM - Configurações"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "WhatsApp phone number (with DDD and country code)"
+msgstr "Número de telefone do WhatsApp (com DDD e código do país)"
+
+msgid "Text of service (optional)"
+msgstr "Texto de atendimento (opcional)"
+
+msgid "Parameters UTM (optional)"
+msgstr "Parâmetros UTM (opcional)"
+
+msgid "Not show button on pages (slugs separated by comma, e.g. contact, support) leave empty to appear on all pages"
+msgstr "Não Mostrar botão nas páginas (slugs separados por vírgula, por exemplo, contato, suporte) deixar vazio para aparecer em todas as páginas"
+
+msgid "Hello, I would like to know more about the product"
+msgstr "Olá, gostaria de saber mais sobre o produto"
+
+msgid "contact,support"
+msgstr "contato,suporte"
+
+msgid "&utm_source=wp&utm_medium=button"
+msgstr ""
+
+msgid "Position button (left or right)"
+msgstr "Posição do botão (esquerda ou direita)"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Right"
+msgstr "Direita"

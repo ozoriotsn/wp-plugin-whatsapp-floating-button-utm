@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-28 11:27+0000\n"
+"PO-Revision-Date: 2025-04-28 09:32-0300\n"
+"Last-Translator: \n"
+"Language-Team: BR\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Loco-Source-Locale: en_US\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: whatsapp-floating-button\n"
+
+msgid "WhatsApp Floating Button UTM"
+msgstr ""
+
+msgid "WhatsApp Floating Button UTM - Settings"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "WhatsApp phone number (with DDD and country code)"
+msgstr ""
+
+msgid "Text of service (optional)"
+msgstr ""
+
+msgid "Parameters UTM (optional)"
+msgstr ""
+
+msgid "Not show button on pages (slugs separated by comma, e.g. contact, support) leave empty to appear on all pages"
+msgstr ""
+
+msgid "Hello, I would like to know more about the product"
+msgstr ""
+
+msgid "contact,support"
+msgstr ""
+
+msgid "&utm_source=wp&utm_medium=button"
+msgstr ""
+
+msgid "Position button (left or right)"
+msgstr ""
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Right"
+msgstr "Direita"

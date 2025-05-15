@@ -1,0 +1,20 @@
+
+.wfb-button-position,
+.wfb-phone-number,
+.wfb-text,
+.wfb-utm-params,
+.wfb-target-pages {
+    width: 500px;
+}
+
+.wfb-target-pages{
+    min-height: 100px;
+}
+
+.wfb-utm-params {
+    min-height: 100px;
+}
+
+.wp-core-ui select {
+    max-width: 500px;
+}
