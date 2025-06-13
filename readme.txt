@@ -1,5 +1,5 @@
 === WFB UTM ===
-Contributors: Ozorio Neto
+Contributors: ozoriotsn
 Donate link: https://www.paypal.com/donate/?hosted_button_id=5WR5CA3DBSRQY
 Tags: whatsapp, chat, floating button, utm
 Requires at least: 5.0
@@ -39,6 +39,13 @@ Yes, it is fully responsive and works perfectly on mobile devices.
 
 1. Admin settings page.
 2. Example of the floating button on a website.
+
+
+== External Services ==
+
+This plugin connects to the WhatsApp API (https://api.whatsapp.com/) for open in browser web whatsapp.
+
+The plugin only sends the user's phone data and some Google UTM parameters.
 
 
 == Changelog ==
