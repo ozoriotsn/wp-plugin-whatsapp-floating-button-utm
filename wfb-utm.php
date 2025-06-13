@@ -126,7 +126,6 @@ function wfb_utm_settings_page()
 function wfb_utm_add_whatsapp_button()
 {
     $server_uri = !empty(sanitize_url(wp_unslash($_SERVER['REQUEST_URI']))) ? sanitize_url(wp_unslash($_SERVER['REQUEST_URI'])) : '';
-    //$path = parse_url($server_uri, PHP_URL_PATH) ?? '';
     $path =  wp_parse_url($server_uri, PHP_URL_PATH);
     $phone = esc_attr(get_option('wfb_phone_number', ''));
     $text = esc_attr(get_option('wfb_text', ''));
